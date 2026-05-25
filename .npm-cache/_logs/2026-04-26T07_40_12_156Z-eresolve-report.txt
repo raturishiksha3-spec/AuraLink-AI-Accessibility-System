@@ -1,0 +1,18 @@
+'Log files:
+C:\Users\CodexSandboxOnline\.codex\.sandbox\cwd\360ee87257ada779\.npm-cache\_logs\2026-04-26T07_40_12_156Z-debug-0.log
+
+# npm resolution error report
+
+While resolving: auralink-accessibility-bridge@1.0.0
+Found: postcss@undefined
+node_modules/postcss
+  dev postcss@"^8.5.49" from the root project
+
+Could not resolve dependency:
+peer postcss@"^8.1.0" from autoprefixer@10.5.0
+node_modules/autoprefixer
+  dev autoprefixer@"^10.4.20" from the root project
+
+Fix the upstream dependency conflict, or retry
+this command with --force or --legacy-peer-deps
+to accept an incorrect (and potentially broken) dependency resolution.

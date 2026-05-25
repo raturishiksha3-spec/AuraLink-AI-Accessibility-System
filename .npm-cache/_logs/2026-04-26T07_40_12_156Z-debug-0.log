@@ -1,0 +1,161 @@
+0 verbose cli C:\Program Files\nodejs\node.exe C:\Program Files\nodejs\node_modules\npm\bin\npm-cli.js
+1 info using npm@10.9.3
+2 info using node@v22.20.0
+3 silly config load:file:C:\Program Files\nodejs\node_modules\npm\npmrc
+4 silly config load:file:C:\Users\CodexSandboxOnline\.codex\.sandbox\cwd\360ee87257ada779\.npmrc
+5 silly config load:file:C:\Users\HP\.npmrc
+6 silly config load:file:C:\Users\HP\AppData\Roaming\npm\etc\npmrc
+7 verbose title npm install
+8 verbose argv "install" "--cache" ".\\.npm-cache"
+9 verbose logfile logs-max:10 dir:C:\Users\CodexSandboxOnline\.codex\.sandbox\cwd\360ee87257ada779\.npm-cache\_logs\2026-04-26T07_40_12_156Z-
+10 verbose logfile C:\Users\CodexSandboxOnline\.codex\.sandbox\cwd\360ee87257ada779\.npm-cache\_logs\2026-04-26T07_40_12_156Z-debug-0.log
+11 silly logfile done cleaning log files
+12 silly packumentCache heap:4345298944 maxSize:1086324736 maxEntrySize:543162368
+13 silly idealTree buildDeps
+14 silly fetch manifest @mediapipe/camera_utils@^0.3.1675466862
+15 silly packumentCache full:https://registry.npmjs.org/@mediapipe%2fcamera_utils cache-miss
+16 http fetch GET 200 https://registry.npmjs.org/@mediapipe%2fcamera_utils 427ms (cache miss)
+17 silly packumentCache full:https://registry.npmjs.org/@mediapipe%2fcamera_utils set size:undefined disposed:false
+18 silly fetch manifest @mediapipe/drawing_utils@^0.3.1675466124
+19 silly packumentCache full:https://registry.npmjs.org/@mediapipe%2fdrawing_utils cache-miss
+20 http fetch GET 200 https://registry.npmjs.org/@mediapipe%2fdrawing_utils 154ms (cache miss)
+21 silly packumentCache full:https://registry.npmjs.org/@mediapipe%2fdrawing_utils set size:undefined disposed:false
+22 silly fetch manifest @mediapipe/holistic@^0.5.1675471629
+23 silly packumentCache full:https://registry.npmjs.org/@mediapipe%2fholistic cache-miss
+24 http fetch GET 200 https://registry.npmjs.org/npm 699ms
+25 http fetch GET 200 https://registry.npmjs.org/@mediapipe%2fholistic 207ms (cache miss)
+26 silly packumentCache full:https://registry.npmjs.org/@mediapipe%2fholistic set size:undefined disposed:false
+27 silly fetch manifest @xenova/transformers@^2.17.2
+28 silly packumentCache full:https://registry.npmjs.org/@xenova%2ftransformers cache-miss
+29 http fetch GET 200 https://registry.npmjs.org/@xenova%2ftransformers 149ms (cache miss)
+30 silly packumentCache full:https://registry.npmjs.org/@xenova%2ftransformers set size:undefined disposed:false
+31 silly fetch manifest framer-motion@^11.18.2
+32 silly packumentCache full:https://registry.npmjs.org/framer-motion cache-miss
+33 http fetch GET 200 https://registry.npmjs.org/framer-motion 410ms (cache miss)
+34 silly packumentCache full:https://registry.npmjs.org/framer-motion set size:undefined disposed:false
+35 silly fetch manifest @emotion/is-prop-valid@*
+36 silly packumentCache full:https://registry.npmjs.org/@emotion%2fis-prop-valid cache-miss
+37 http fetch GET 200 https://registry.npmjs.org/@emotion%2fis-prop-valid 791ms (cache miss)
+38 silly packumentCache full:https://registry.npmjs.org/@emotion%2fis-prop-valid set size:undefined disposed:false
+39 silly fetch manifest react@^18.3.1
+40 silly packumentCache full:https://registry.npmjs.org/react cache-miss
+41 http fetch GET 200 https://registry.npmjs.org/react 318ms (cache miss)
+42 silly packumentCache full:https://registry.npmjs.org/react set size:undefined disposed:false
+43 silly fetch manifest react-dom@^18.3.1
+44 silly packumentCache full:https://registry.npmjs.org/react-dom cache-miss
+45 http fetch GET 200 https://registry.npmjs.org/react-dom 349ms (cache miss)
+46 silly packumentCache full:https://registry.npmjs.org/react-dom set size:undefined disposed:false
+47 silly fetch manifest @vitejs/plugin-react@^4.3.4
+48 silly packumentCache full:https://registry.npmjs.org/@vitejs%2fplugin-react cache-miss
+49 http fetch GET 200 https://registry.npmjs.org/@vitejs%2fplugin-react 91ms (cache miss)
+50 silly packumentCache full:https://registry.npmjs.org/@vitejs%2fplugin-react set size:undefined disposed:false
+51 silly fetch manifest vite@^6.0.7
+52 silly packumentCache full:https://registry.npmjs.org/vite cache-miss
+53 http fetch GET 200 https://registry.npmjs.org/vite 1231ms (cache miss)
+54 silly packumentCache full:https://registry.npmjs.org/vite set size:undefined disposed:false
+55 silly fetch manifest @types/node@^18.0.0 || ^20.0.0 || >=22.0.0
+56 silly packumentCache full:https://registry.npmjs.org/@types%2fnode cache-miss
+57 http fetch GET 200 https://registry.npmjs.org/@types%2fnode 341ms (cache miss)
+58 silly packumentCache full:https://registry.npmjs.org/@types%2fnode set size:undefined disposed:false
+59 silly fetch manifest jiti@>=1.21.0
+60 silly packumentCache full:https://registry.npmjs.org/jiti cache-miss
+61 http fetch GET 200 https://registry.npmjs.org/jiti 64ms (cache miss)
+62 silly packumentCache full:https://registry.npmjs.org/jiti set size:undefined disposed:false
+63 silly fetch manifest less@*
+64 silly packumentCache full:https://registry.npmjs.org/less cache-miss
+65 http fetch GET 200 https://registry.npmjs.org/less 88ms (cache miss)
+66 silly packumentCache full:https://registry.npmjs.org/less set size:undefined disposed:false
+67 silly fetch manifest lightningcss@^1.21.0
+68 silly packumentCache full:https://registry.npmjs.org/lightningcss cache-miss
+69 http fetch GET 200 https://registry.npmjs.org/lightningcss 115ms (cache miss)
+70 silly packumentCache full:https://registry.npmjs.org/lightningcss set size:undefined disposed:false
+71 silly fetch manifest sass@*
+72 silly packumentCache full:https://registry.npmjs.org/sass cache-miss
+73 http fetch GET 200 https://registry.npmjs.org/sass 111ms (cache miss)
+74 silly packumentCache full:https://registry.npmjs.org/sass set size:undefined disposed:false
+75 silly fetch manifest sass-embedded@*
+76 silly packumentCache full:https://registry.npmjs.org/sass-embedded cache-miss
+77 http fetch GET 200 https://registry.npmjs.org/sass-embedded 87ms (cache miss)
+78 silly packumentCache full:https://registry.npmjs.org/sass-embedded set size:undefined disposed:false
+79 silly fetch manifest stylus@*
+80 silly packumentCache full:https://registry.npmjs.org/stylus cache-miss
+81 http fetch GET 200 https://registry.npmjs.org/stylus 77ms (cache miss)
+82 silly packumentCache full:https://registry.npmjs.org/stylus set size:undefined disposed:false
+83 silly fetch manifest sugarss@*
+84 silly packumentCache full:https://registry.npmjs.org/sugarss cache-miss
+85 http fetch GET 200 https://registry.npmjs.org/sugarss 59ms (cache miss)
+86 silly packumentCache full:https://registry.npmjs.org/sugarss set size:undefined disposed:false
+87 silly fetch manifest postcss@^8.5.49
+88 silly packumentCache full:https://registry.npmjs.org/postcss cache-miss
+89 http fetch GET 200 https://registry.npmjs.org/postcss 109ms (cache miss)
+90 silly packumentCache full:https://registry.npmjs.org/postcss set size:undefined disposed:false
+91 silly fetch manifest postcss@^8.3.3
+92 silly packumentCache full:https://registry.npmjs.org/postcss cache-miss
+93 http cache https://registry.npmjs.org/postcss 28ms (cache hit)
+94 silly packumentCache full:https://registry.npmjs.org/postcss set size:708244 disposed:false
+95 silly fetch manifest terser@^5.16.0
+96 silly packumentCache full:https://registry.npmjs.org/terser cache-miss
+97 http fetch GET 200 https://registry.npmjs.org/terser 106ms (cache miss)
+98 silly packumentCache full:https://registry.npmjs.org/terser set size:undefined disposed:false
+99 silly fetch manifest tsx@^4.8.1
+100 silly packumentCache full:https://registry.npmjs.org/tsx cache-miss
+101 http fetch GET 200 https://registry.npmjs.org/tsx 78ms (cache miss)
+102 silly packumentCache full:https://registry.npmjs.org/tsx set size:undefined disposed:false
+103 silly fetch manifest yaml@^2.4.2
+104 silly packumentCache full:https://registry.npmjs.org/yaml cache-miss
+105 http fetch GET 200 https://registry.npmjs.org/yaml 60ms (cache miss)
+106 silly packumentCache full:https://registry.npmjs.org/yaml set size:undefined disposed:false
+107 silly fetch manifest autoprefixer@^10.4.20
+108 silly packumentCache full:https://registry.npmjs.org/autoprefixer cache-miss
+109 http fetch GET 200 https://registry.npmjs.org/autoprefixer 99ms (cache miss)
+110 silly packumentCache full:https://registry.npmjs.org/autoprefixer set size:undefined disposed:false
+111 silly fetch manifest postcss@^8.5.49
+112 silly packumentCache full:https://registry.npmjs.org/postcss cache-hit
+113 silly fetch manifest postcss@^8.1.0
+114 silly packumentCache full:https://registry.npmjs.org/postcss cache-hit
+115 verbose stack Error: unable to resolve dependency tree
+115 verbose stack     at #failPeerConflict (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:1363:25)
+115 verbose stack     at #loadPeerSet (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:1329:33)
+115 verbose stack     at async #buildDepStep (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:904:11)
+115 verbose stack     at async Arborist.buildIdealTree (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\build-ideal-tree.js:181:7)
+115 verbose stack     at async Promise.all (index 1)
+115 verbose stack     at async Arborist.reify (C:\Program Files\nodejs\node_modules\npm\node_modules\@npmcli\arborist\lib\arborist\reify.js:131:5)
+115 verbose stack     at async Install.exec (C:\Program Files\nodejs\node_modules\npm\lib\commands\install.js:150:5)
+115 verbose stack     at async Npm.exec (C:\Program Files\nodejs\node_modules\npm\lib\npm.js:207:9)
+115 verbose stack     at async module.exports (C:\Program Files\nodejs\node_modules\npm\lib\cli\entry.js:74:5)
+116 error code ERESOLVE
+117 error ERESOLVE unable to resolve dependency tree
+118 error
+119 error While resolving: auralink-accessibility-bridge@1.0.0
+119 error Found: postcss@undefined
+119 error node_modules/postcss
+119 error   dev postcss@"^8.5.49" from the root project
+119 error
+119 error Could not resolve dependency:
+119 error peer postcss@"^8.1.0" from autoprefixer@10.5.0
+119 error node_modules/autoprefixer
+119 error   dev autoprefixer@"^10.4.20" from the root project
+119 error
+119 error Fix the upstream dependency conflict, or retry
+119 error this command with --force or --legacy-peer-deps
+119 error to accept an incorrect (and potentially broken) dependency resolution.
+120 error
+120 error
+120 error For a full report see:
+120 error C:\Users\CodexSandboxOnline\.codex\.sandbox\cwd\360ee87257ada779\.npm-cache\_logs\2026-04-26T07_40_12_156Z-eresolve-report.txt
+121 silly unfinished npm timer reify 1777189213484
+122 silly unfinished npm timer reify:loadTrees 1777189213488
+123 silly unfinished npm timer idealTree:buildDeps 1777189213516
+124 silly unfinished npm timer idealTree:#root 1777189213517
+125 verbose cwd C:\Users\CodexSandboxOnline\.codex\.sandbox\cwd\360ee87257ada779
+126 verbose os Windows_NT 10.0.26200
+127 verbose node v22.20.0
+128 verbose npm  v10.9.3
+129 notice
+129 notice New major version of npm available! 10.9.3 -> 11.13.0
+129 notice Changelog: https://github.com/npm/cli/releases/tag/v11.13.0
+129 notice To update run: npm install -g npm@11.13.0
+129 notice  { force: true, [Symbol(proc-log.meta)]: true }
+130 verbose exit 1
+131 verbose code 1
+132 error A complete log of this run can be found in: C:\Users\CodexSandboxOnline\.codex\.sandbox\cwd\360ee87257ada779\.npm-cache\_logs\2026-04-26T07_40_12_156Z-debug-0.log
